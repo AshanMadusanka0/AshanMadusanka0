@@ -1,4 +1,4 @@
-<img src="[https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif](https://png.pngtree.com/png-clipart/20230914/original/pngtree-information-technology-vector-png-image_12148128.png)" width="50px" height="50px"/>
+<img src="https://png.pngtree.com/png-clipart/20230914/original/pngtree-information-technology-vector-png-image_12148128.png" width="50px" height="50px"/>
 <h1 align="center">Hi, I'M ASHAN EDIRISINGHE</h1>
 <h3 align="center">Undergraduate of Computer Science</h3>
 
