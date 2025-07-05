@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashanmadusanka0" alt="ashanmadusanka0" /></a> </p>
 
-- 👨‍💻 How to contact me **+94 703763840**
+- 👨‍💻 How to contact me **(+94 703763840)**
 
 - 📫 How to reach me **ashanofficial01@gmail.com**
 
