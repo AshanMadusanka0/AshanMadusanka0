@@ -1,4 +1,4 @@
-<img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif"/>
+<img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif" width="50px" height="50px"/>
 <h1 align="center">Hi, I'M ASHAN EDIRISINGHE</h1>
 <h3 align="center">Undergraduate of Computer Science</h3>
 
