@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img src="https://static.vecteezy.com/system/resources/previews/036/706/538/non_2x/ai-generated-anonymous-hacker-attack-free-png.png" width="100px" height="100px"/>Hi, I'M ASHAN EDIRISINGHE <img src="https://png.pngtree.com/png-clipart/20230914/original/pngtree-information-technology-vector-png-image_12148128.png" width="100px" height="100px"/></h1>
+<h1 align="center"> <img src="https://static.vecteezy.com/system/resources/previews/036/706/538/non_2x/ai-generated-anonymous-hacker-attack-free-png.png" width="100px" height="100px"/><pre> Hi, I'M ASHAN EDIRISINGHE </pre><img src="https://png.pngtree.com/png-clipart/20230914/original/pngtree-information-technology-vector-png-image_12148128.png" width="100px" height="100px"/></h1>
 <h3 align="center">Undergraduate of Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashanmadusanka0&label=Profile%20views&color=0e75b6&style=flat" alt="ashanmadusanka0" /> </p>
